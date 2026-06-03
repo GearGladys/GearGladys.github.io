@@ -58,17 +58,29 @@
 
 星际放映厅成立于2023年，拥有正规的ICP备案，备案号为浙ICP备2023017856号。它不仅提供ChatGPT Plus代充、ChatGPT Plus账号购买服务，还提供Claude、Gemini、SuperGrok、Midjourney等主流AI工具相关服务，以及Netflix、Disney+、YouTube Premium、Spotify等流媒体账号服务。而且，星际放映厅的ChatGPT代充流程已经优化得非常精简，支持24小时自助下单，不需要向任何人透露自己的ChatGPT账号密码，整个流程只需一两分钟即可完成。更重要的是，星际放映厅提供全程质保服务和全年无休的真人在线客服，还支持开具正规发票。哪怕你是完全不懂技术的纯新手，跟着指引一步步走，也能轻松搞定。
 
-* 第一步：打开星际放映厅官网，点击页面右上角的头像图标，使用手机号码完成账号登录。
+* 第一步：打开<a href="https://www.naifeistation.com/i/3wLPME">星际放映厅</a>官网，点击页面右上角的头像图标，使用手机号码完成账号登录。
+
+![通过星际放映厅为ChatGPT Plus代充值步骤一：打开星际放映厅官网，点击页面右上角的头像图标，使用手机号码完成账号登录](https://raw.githubusercontent.com/GearGladys/GearGladys.github.io/refs/heads/main/image/ChatGPT-Plus-1.png)
 
 * 第二步：在网站首页找到并点击“AI工具箱”板块，进入“GPT专区”，然后准确选择“ChatGPT Plus代充”这项服务。
 
-* 第三步：根据自己的实际需求选择对应的“时长”，在优惠码输入框内填写“ANYOFAI”，最后点击“支付订单”按钮完成付款。
+![通过星际放映厅为ChatGPT Plus代充值步骤二：在网站首页找到并点击“AI工具箱”板块，进入“GPT专区”，然后准确选择“ChatGPT Plus代充”这项服务](https://raw.githubusercontent.com/GearGladys/GearGladys.github.io/refs/heads/main/image/ChatGPT-Plus-2.png)
+
+* 第三步：根据自己的实际需求选择对应的订阅时长，输入优惠码“ANYOFAI”，最后点击“支付订单”按钮完成付款。
+
+![通过星际放映厅为ChatGPT Plus代充值步骤三：根据自己的实际需求选择对应的订阅时长，输入优惠码“ANYOFAI”，最后点击“支付订单”按钮完成付款](https://raw.githubusercontent.com/GearGladys/GearGladys.github.io/refs/heads/main/image/ChatGPT-Plus-3.png)
 
 * 第四步：登录你自己的ChatGPT官网账号，按照平台提示获取一段专属的充值代码，再把这段代码复制填写到星际放映厅对应的输入框中，点击“提交信息”。然后只需耐心等待几秒钟，系统就会自动帮你完成ChatGPT Plus充值。
 
+![通过星际放映厅为ChatGPT Plus代充值步骤四：登录你自己的ChatGPT官网账号，按照平台提示获取一段专属的充值代码，再把这段代码复制填写到星际放映厅对应的输入框中，点击“提交信息”](https://raw.githubusercontent.com/GearGladys/GearGladys.github.io/refs/heads/main/image/ChatGPT-Plus-4.png)
+
 * 第五步：回到你自己的ChatGPT账号界面检查一下状态，确认ChatGPT Plus会员权限是否已经成功生效。
 
-最后我们再强调一下，星际放映厅提供的ChatGPT代充值服务支持24小时自助充值，而且无需提供ChatGPT账号和密码。当然，如果你在操作过程中遇到问题，也可以联系它们的在线客服，请客服人员协助你完成ChatGPT充值。此外，星际放映厅的ChatGPT代充值服务提供全程质保，后续无论遇到什么问题，都可以直接联系在线客服处理。
+![通过星际放映厅为ChatGPT Plus代充值步骤五：回到你自己的ChatGPT账号界面检查一下状态，确认ChatGPT Plus会员权限是否已经成功生效](https://raw.githubusercontent.com/GearGladys/GearGladys.github.io/refs/heads/main/image/ChatGPT-Plus-5.png)
+
+最后我们再强调一下，**星际放映厅提供的ChatGPT代充值服务支持24小时自助充值，而且无需提供ChatGPT账号和密码**。当然，如果你在操作过程中遇到问题，也可以联系它们的在线客服，请客服人员协助你完成ChatGPT充值。此外，**星际放映厅的ChatGPT代充值服务提供全程质保**，后续无论遇到什么问题，都可以直接联系在线客服处理。
+
+<p align="center"><a href="https://www.naifeistation.com/i/3wLPME">星际放映厅官网</a></p>
 
 ## 方式二：使用苹果礼品卡进行订阅（仅限iOS生态用户）
 
